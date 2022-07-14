@@ -9,6 +9,7 @@ const Navbar = () => {
     const navItems: navItemData[] = [
         { name: "Home", link: "/" },
         { name: "About", link: "/about" },
+        { name: "Posts", link: "/p" },
     ];
 
     return (
