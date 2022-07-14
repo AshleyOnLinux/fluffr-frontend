@@ -1,5 +1,6 @@
 import { Link } from "react-router-dom";
 
+// Navbar
 const Navbar = () => {
     interface navItemData {
         name: string;
