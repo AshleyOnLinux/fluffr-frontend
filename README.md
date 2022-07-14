@@ -8,3 +8,4 @@ Currently in development!
 
 ## Progress map
  - 12/07/2022 // Repository was created.
+ - 14/07/2022 // Index.html was created. Progress on the API was started.
