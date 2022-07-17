@@ -1,8 +1,8 @@
 # fluffr.cf
 
-A social media forum for all animal-related matters.
+A social media platform for furries! (and non-furries, yknow, if you're in denial)
 
-This intends to be a mix between twitter, facebook and  but JUST for animals!
+I intend for fluffr to be a mix between twitter, facebook () but JUST for furries!
 
 Currently in development! 
 
